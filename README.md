@@ -1,2 +1,4 @@
 # Response-Tester
-On click a coloured shape ,it output the time delay.
+
+Its a simple project I made while learning JavaScript.
+Click on a coloured shape successively and it outputs the time delay between two clicks.
